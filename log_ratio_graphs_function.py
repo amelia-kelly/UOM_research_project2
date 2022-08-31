@@ -47,7 +47,7 @@ def log_ratio(mu, sigma, bin_no, param_name, unit_conversion, min_val, x_scale, 
         s=b
 
 
-    #calculates log ration
+    #calculates log ratio
 
     h =[] #height of bars
     for i in range(0,len(bins)):
